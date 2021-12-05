@@ -56,7 +56,7 @@ tabn = ''
 res = ''
 txt = "bd.txt"
 
-bot = telebot.TeleBot("2128157340:AAEhEH46luH4f1o3EySTdV2i8NmaytfqL0k")
+bot = telebot.TeleBot("")
 # сброс переменных
 def all_sbros():
     global name,rename,tmp_name,rename_stop,start_mid,keydel,tema_testa,tema_inf,test,btn,tema,test_key,n_t_key,answer,i_quest,i_tema,num_id,it,i,iA,key_end,n_test,number_test,rezult, rezult100, itog_proc
